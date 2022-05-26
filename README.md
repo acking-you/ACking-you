@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm L_B__. 👋
 
-- 🔭 I’m now working for TAL.
+- 🔭 I’m a student from CCSU.
 - 🌱 I’m currently learning Golang/Rust.
 - ❤️ I like C++ most,but I'm not very good at it.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ACking-you&show_icons=true&hide_border=true">
