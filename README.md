@@ -29,7 +29,7 @@
 
 <code><img src="https://isocpp.org/files/img/cpp_logo.png" alt="cpp" width="35" height="40"/></code>
 <code><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/></code>
-<code><img src="https://img.sj33.cn/uploads/202011/7-20111FZTI04.jpg" alt="go" width="40" height="40"/></code>
+<code><img src="https://img.sj33.cn/uploads/202011/7-20111FZTI04.jpg" alt="go" width="40" height="35"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
