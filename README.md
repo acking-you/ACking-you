@@ -30,11 +30,7 @@
 <code><img src="https://isocpp.org/files/img/cpp_logo.png" alt="cpp" width="35" height="40"/></code>
 <code><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/></code>
 <code><img src="https://img.sj33.cn/uploads/202011/7-20111FZTI04.jpg" alt="go" width="40" height="35"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img src="https://www.tslang.cn/favicon.ico" alt="typescript" width="40" height="40"/></code>
 <code><img src="https://dart.cn/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="dart" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
 
 ![](https://komarev.com/ghpvc/?username=ACking-you)
