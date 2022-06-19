@@ -1,22 +1,23 @@
-
 <h2 align="center">Hi there 👋, I'm L_B__!</h2>
+
 <div align="center">
  <code>
   <a href="https://leetcode.cn/u/whu_future/">
-<img src="https://leetcode.cn/favicon.ico" alt="leetcode" width="40" height="40"/>
+<img src="https://leetcode.cn/favicon.ico" alt="leetcode" width="30" height="30"/>
   </a>
   </code>
   <code>
     <a href="https://space.bilibili.com/24264499">
-<img src="https://www.bilibili.com/favicon.ico" alt="bilibili" with="40" height="40">
+<img src="https://www.bilibili.com/favicon.ico" alt="bilibili" with="28" height="30">
     </a>
   </code>
   <code>
   <a href="https://www.acking-you.xyz/">
-<img src="https://acking-you.gitee.io/favicon.ico" alt="myNoteWebsite" with="40" height="40">
+<img src="https://acking-you.gitee.io/favicon.ico" alt="myNoteWebsite" with="30" height="30">
   </a>
   </code>
 </div>
+
 
 
 - 🔭 I’m a student from CCSU.
