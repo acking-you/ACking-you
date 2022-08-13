@@ -20,7 +20,6 @@
 
 
 
-- 🔭 I’m a student from CCSU.
 - 🌱 I’m currently learning Golang/Rust.
 - ❤️ I like C++ most,but I'm not very good at it.
 
