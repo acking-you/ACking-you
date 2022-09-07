@@ -20,7 +20,7 @@
 
 
 
-- 🌱 I've recently been learning to Golang/Rust.
+- 🌱 I'm learning to Go/Rust recently.
 - ❤️ I like C++ most,but I'm not very good at it.
 
 
