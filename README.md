@@ -38,7 +38,7 @@
 
 [![byte_douyin_project](https://github-readme-stats.vercel.app/api/pin/?username=ACking-you&repo=byte_douyin_project&show_owner=true)](https://github.com/ACking-you/byte_douyin_project)
 
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=ACKing-you&repo=MyUtil&show_owner=true)](https://github.com/ACking-you/my_tiny_stl)
+[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=ACKing-you&repo=MyUtil&show_owner=true)](https://github.com/ACking-you/MyUtil)
 
 
 
