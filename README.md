@@ -3,7 +3,7 @@
 <div align="center">
  <code>
   <a href="https://leetcode.cn/u/whu_future/">
-<img src="https://leetcode.cn/favicon.ico" alt="leetcode" width="30" height="30"/>
+<img src="https://leetcode.com/favicon-32x32.png" alt="leetcode" width="30" height="30"/>
   </a>
   </code>
   <code>
