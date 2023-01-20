@@ -20,8 +20,8 @@
 
 
 
-- 🌱 I'm learning to Go/Rust recently.
-- ❤️ I like C++ most,but I'm not very good at it.
+- 🌱 I'm best at C++ and recently learned the Rust/Go.
+- ❤️ Love anything that's high-performance and easy to use.
 
 
 ![](https://komarev.com/ghpvc/?username=ACking-you)
