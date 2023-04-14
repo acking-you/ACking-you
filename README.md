@@ -12,7 +12,7 @@
     </a>
   </span>
   <span>
-  <a href="https://www.acking-you.xyz/">
+  <a href="https://www.acking-you.github.io/">
 <img src="https://acking-you.gitee.io/favicon.ico" alt="myNoteWebsite" with="30" height="30">
   </a>
   </span>
