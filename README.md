@@ -25,5 +25,11 @@
 - 🖼️ The UI frameworks I've used: Qt/Flutter
 - ❤️ Love anything that's high-performance and easy to use.
 
+## Here's some great software I wrote
+* [Card-based note-taking software](https://github.com/ACking-you/NoteWithCard)
+* [Generate go project templates from database data with one click](https://github.com/ACking-you/quickstart_project)
+* [One-click tool for deploying Hugo blogs](https://github.com/ACking-you/AutoHugoSetup)
+* [Writing tools for Hugo](https://github.com/ACking-you/AutoHugoWrite)
+* [IM software backend](https://github.com/ACking-you/my_chat)
 
-![](https://komarev.com/ghpvc/?username=ACking-you)
+![icon](https://komarev.com/ghpvc/?username=ACking-you)
