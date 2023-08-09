@@ -21,7 +21,7 @@
 
 
 - 🌱 I'm best at C++.
-- 🎢 Other language proficiency rankings: Golang>dart>java>python.
+- 🎢 Other language proficiency rankings: Rust>Golang>dart>java>python.
 - 🖼️ The UI frameworks I've used: Qt/Flutter
 - ❤️ Love anything that's high-performance and easy to use.
 
