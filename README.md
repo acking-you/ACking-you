@@ -19,17 +19,18 @@
 </div>
 
 
-
-- 🌱 I'm best at C++.
-- 🎢 Other language proficiency rankings: Rust>Golang>dart>java>python.
-- 🖼️ The UI frameworks I've used: Qt/Flutter
-- ❤️ Love anything that's high-performance and easy to use.
+- 🌱 Passionate about low-level technologies and principles, with a strong drive for performance optimization.
+- 👣 Seek out high-performance technologies (e.g., io_uring, SIMD) and languages (e.g., C/C++, Rust, Zig).
+- 🎈 Enjoy using full-stack technologies to solve real-world problems in daily life (e.g., note-taking, writing, public network mapping).
+- ❤️ Love zero-cost technologies (e.g., Rust iterators) where unused features don't incur unnecessary costs.
 
 ## Here's some efficient software I wrote
+* [Public Network Mapping](https://github.com/acking-you/pb-mapper)
 * [Card-based note-taking software](https://github.com/ACking-you/NoteWithCard)
 * [Generate go project templates from database data with one click](https://github.com/ACking-you/quickstart_project)
 * [One-click tool for deploying Hugo blogs](https://github.com/ACking-you/AutoHugoSetup)
 * [Writing tools for Hugo](https://github.com/ACking-you/AutoHugoWrite)
 * [IM software backend](https://github.com/ACking-you/my_chat)
+
 
 ![icon](https://komarev.com/ghpvc/?username=ACking-you)
