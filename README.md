@@ -13,7 +13,7 @@
   </span>
   <span>
   <a href="https://acking-you.github.io/">
-<img src="https://acking-you.gitee.io/favicon.ico" alt="myNoteWebsite" with="30" height="30">
+<img src="https://acking-you.github.io/favicon.ico" alt="myNoteWebsite" with="30" height="30">
   </a>
   </span>
 </div>
