@@ -1,6 +1,12 @@
 <h2 align="center">Hi there 👋</h2>
 
 <div align="center">
+    <span>
+    <a href="https://juejin.cn/user/1746465019396845">
+<img src="https://juejin.cn/favicon.ico" alt="juejin" with="28" height="30">
+    </a>
+  </span>
+  
   <span>
     <a href="https://space.bilibili.com/24264499">
 <img src="https://www.bilibili.com/favicon.ico" alt="bilibili" with="28" height="30">
