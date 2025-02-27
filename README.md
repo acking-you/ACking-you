@@ -3,7 +3,7 @@
 <div align="center">
     <span>
     <a href="https://juejin.cn/user/1746465019396845">
-<img src="https://juejin.cn/favicon.ico" alt="juejin" with="28" height="30">
+<img src="https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" alt="juejin" with="28" height="30">
     </a>
   </span>
   
