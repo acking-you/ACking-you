@@ -14,6 +14,7 @@
   </span>
   <span>
   <a href="https://acking-you.github.io/">
+
 <img src="https://acking-you.github.io/favicon.ico" alt="myNoteWebsite" with="30" height="30">
   </a>
   </span>
@@ -23,7 +24,9 @@
 - 🌱 Passionate about low-level technologies and principles, with a strong drive for performance optimization.
 - 👣 Seek out high-performance technologies (e.g., io_uring, SIMD) and languages (e.g., C/C++, Rust, Zig).
 - 🎈 Enjoy using full-stack technologies to solve real-world problems in daily life (e.g., note-taking, writing, public network mapping).
-- ❤️ Love zero-cost technologies (e.g., Rust iterators) where unused features don't incur unnecessary costs.
+- ❤️ Love zero-cost technologies (e.g., Rust iterators).
+>   "What you don't use, you don't pay for. And further: What you do use, you couldn't hand code any better."
+  — Bjarne Stroustrup
 
 ## Here's some efficient software I wrote
 * [Public Network Mapping](https://github.com/acking-you/pb-mapper)
