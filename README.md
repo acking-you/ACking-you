@@ -1,24 +1,24 @@
-<h2 align="center">Hi there 👋</h2>
+  <h2 align="center">Hi there 👋</h2>
 
-<div align="center">
-    <span>
-    <a href="https://juejin.cn/user/1746465019396845">
-<img src="https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" alt="juejin" with="28" height="30">
+  <p align="center">
+    <a href="https://juejin.cn/user/1746465019396845" target="_blank">
+      <img src="https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" alt="掘金" width="36" height="36" style="margin: 0 12px; vertical-align: middle;">
     </a>
-  </span>
-  
-  <span>
-    <a href="https://space.bilibili.com/24264499">
-<img src="https://www.bilibili.com/favicon.ico" alt="bilibili" with="28" height="30">
+    <a href="https://space.bilibili.com/24264499" target="_blank">
+      <img src="https://www.bilibili.com/favicon.ico"
+           alt="哔哩哔哩"
+           width="36"
+           height="36"
+           style="margin: 0 12px; vertical-align: middle;">
     </a>
-  </span>
-  <span>
-  <a href="https://acking-you.github.io/">
-
-<img src="https://acking-you.github.io/favicon.ico" alt="myNoteWebsite" with="30" height="30">
-  </a>
-  </span>
-</div>
+    <a href="https://acking-you.github.io/" target="_blank">
+      <img src="https://acking-you.github.io/static/favicon.ico"
+           alt="个人博客"
+           width="36"
+           height="36"
+           style="margin: 0 12px; vertical-align: middle;">
+    </a>
+  </p>
 
 
 - 🌱 Passionate about low-level technologies and principles, with a strong drive for performance optimization.
