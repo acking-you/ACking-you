@@ -1,9 +1,6 @@
   <h2 align="center">Hi there 👋</h2>
 
   <p align="center">
-    <a href="https://juejin.cn/user/1746465019396845" target="_blank">
-      <img src="https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" alt="掘金" width="36" height="36" style="margin: 0 12px; vertical-align: middle;">
-    </a>
     <a href="https://space.bilibili.com/24264499" target="_blank">
       <img src="https://www.bilibili.com/favicon.ico"
            alt="哔哩哔哩"
