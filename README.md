@@ -109,6 +109,9 @@
 **Mar** [plumedb](https://github.com/ACking-you/plumedb) `Rust`<br>
 <sub>LSM-Tree based storage engine + simple message queue implementation</sub>
 
+**Dec** [ejson4cpp](https://github.com/ACking-you/ejson4cpp) `C++11` `SSE4.2`<br>
+<sub>🔄 Major update: Added SSE4.2 SIMD support, flat_map optimization</sub>
+
 </td>
 </tr>
 
@@ -123,10 +126,25 @@
 
 **Mar** 🎯 [glaze](https://github.com/stephenberry/glaze) `C++` - Fast JSON library
 
+**Mar** 🔧 [BetterPot](https://github.com/ACking-you/BetterPot) `Tauri` `Rust`<br>
+<sub>Fork of pot-desktop with native Edge TTS support added</sub>
+
 **Jul** 🎯 [ClickHouse](https://github.com/ClickHouse/ClickHouse) `C++` - Real-time analytics database
+
+**Aug** 🔧 [zedio](https://github.com/ACking-you/zedio) `C++20` `io_uring`<br>
+<sub>Fork: Fixed memory safety issue in test files (PR pending)</sub>
+
+**Oct** 🔧 [Cap](https://github.com/ACking-you/Cap) `TypeScript` `Tauri`<br>
+<sub>Fork of open-source Loom alternative: Removed commercial features, added customization options</sub>
 
 **Nov** [static_flow](https://github.com/ACking-you/static_flow) `Rust` `Yew` `Axum` `LanceDB`<br>
 <sub>Local-first dynamic blog system (full-stack Rust)</sub>
+
+**Nov** 🔧 [proxy](https://github.com/ACking-you/proxy) `C++`<br>
+<sub>Fork: Explored next-gen polymorphism implementation (my_explore branch)</sub>
+
+**Nov** [myclaude-skills](https://github.com/ACking-you/myclaude-skills) `Shell`<br>
+<sub>🤖 Claude Code skills collection (tech-blog, excalidraw, frontend-design, etc.)</sub>
 
 </td>
 </tr>
