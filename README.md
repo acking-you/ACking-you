@@ -1,16 +1,16 @@
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
-  <a href="https://space.bilibili.com/24264499" target="_blank">
-    <img src="https://www.bilibili.com/favicon.ico"
-         alt="Bilibili"
+    <a href="https://acking-you.github.io/" target="_blank">
+    <img src="https://acking-you.github.io/static/favicon.ico"
+         alt="Blog"
          width="36"
          height="36"
          style="margin: 0 12px; vertical-align: middle;">
   </a>
-  <a href="https://acking-you.github.io/" target="_blank">
-    <img src="https://acking-you.github.io/static/favicon.ico"
-         alt="Blog"
+  <a href="https://space.bilibili.com/24264499" target="_blank">
+    <img src="https://www.bilibili.com/favicon.ico"
+         alt="Bilibili"
          width="36"
          height="36"
          style="margin: 0 12px; vertical-align: middle;">
